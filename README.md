@@ -5,6 +5,11 @@ I've been building software professionally for over 15 years and I've loved ever
 
 Currently, I work at Salesforce. In the past I've worked with companies such as Constant Contact, Dell, Nortel, and Sun Microsystems.
 
+I'm also the author of two books from Apress: 
+
+- [Modern CSS](https://www.apress.com/us/book/9781484262931)
+- [Using Gatsby and Netlify CMS](https://www.apress.com/us/book/9781484262962)
+
 I've pinned some of my more popular repositories to my GitHub profile. Please feel free to check them out!
 
 I live in the Boston area with my wife, son, and cats.
