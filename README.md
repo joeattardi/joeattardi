@@ -3,7 +3,7 @@
 Hi, I'm Joe Attardi! I'm a full stack developer with a front-end focus. I really enjoy front-end development.
 I've been building software professionally for over 15 years and I've loved every minute of it!
 
-Currently, I work at Salesforce. In the past I've worked with companies such as Constant Contact, Dell, Nortel, and Sun Microsystems.
+Currently, I work at Synopsys. In the past I've worked with companies such as Salesforce, Constant Contact, Dell, Nortel, and Sun Microsystems.
 
 I'm also the author of two books from Apress: 
 
