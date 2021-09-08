@@ -1,6 +1,6 @@
 ### Hi there 👋 👨‍💻
 
-Hi, I'm Joe Attardi! I'm a full stack developer with a front-end focus. I really enjoy front-end development.
+Hi, I'm Joe Attardi! I'm a developer with a front-end focus. I really enjoy front-end development.
 I've been building software professionally for over 15 years and I've loved every minute of it!
 
 Currently, I work at Synopsys. In the past I've worked with companies such as Salesforce, Constant Contact, Dell, Nortel, and Sun Microsystems.
