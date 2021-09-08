@@ -25,4 +25,3 @@ I live in the Boston area with my wife, son, and cats.
 
 - Email: [jattardi@gmail.com](mailto:jattardi@gmail.com)
 - Website: [https://joeattardi.codes](https://joeattardi.codes)
-- Twitter: [@JoeAttardi](https://twitter.com/JoeAttardi)
