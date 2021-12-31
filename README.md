@@ -24,4 +24,4 @@ I live in the Boston area with my wife, son, and cats.
 ## Get in touch
 
 - Email: [jattardi@gmail.com](mailto:jattardi@gmail.com)
-- Website: [https://joeattardi.codes](https://joeattardi.codes)
+- Website: [https://joeattardi.dev](https://joeattardi.dev)
