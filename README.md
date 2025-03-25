@@ -17,7 +17,7 @@ I live in the Boston area with my wife, son, and cats.
 
 ## Technologies I work with
 
-- JavaScript/Typescript - vanilla JS, React, Angular
+- JavaScript/TypeScript - vanilla JS, React, Angular, Svelte
 - Java
 - HTML
 - CSS
